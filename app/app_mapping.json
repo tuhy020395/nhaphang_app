@@ -1,0 +1,86 @@
+{
+    "components": {
+        "Button": {
+            "meta": {},
+            "appearances": {
+                "filled": {
+                    "mapping": {},
+                    "variantGroups": {
+                        "status": {
+                            "primary": {
+                                
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Select": {
+            "appearances":{
+                "default":{
+                    "mapping": {},
+                    "variantGroups": {
+                        "status": {
+                            "basic": {
+                                "borderColor": "#c1c1c1",
+                                "backgroundColor": "#f7f7f7",
+                                "iconTintColor": "#c1c1c1",
+                                "textColor": "text-basic-color",
+                                "labelColor": "text-hint-color",
+                                "placeholderColor": "#c1c1c1",
+                                "state": {
+                                    "focused": {
+                                        "borderColor": "#f58138"
+                                    },
+                                    "active": {
+                                        "borderColor": "#f58138"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                
+            }
+        },
+        "Menu":{
+            "meta": {},
+            "appearances": {
+
+            }
+        },
+        "SubMenu": {
+            "meta": {},
+            "appearances": {
+                "default":{
+                    "mapping": {
+                        
+                    }
+                }
+            }
+        },
+        "MenuItem": {
+            "meta": {},
+            "appearances": {
+                "default":{
+                    "mapping": {
+                        "backgroundColor": "#333",
+                        "titleColor": "#fff",
+                        "iconTintColor": "#fff",
+                        "state": {
+                            "selected": {
+                                "backgroundColor": "transparent",
+                                "indicatorWidth": 0,
+                                "titleColor": "#ff8201",
+                                "iconTintColor": "#ff8201"
+                            },
+                            "active": {
+                                "backgroundColor": "transparent"
+                            }
+                        }
+                    }
+                }  
+            }
+        }
+    }
+}

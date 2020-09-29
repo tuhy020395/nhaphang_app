@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="nhaphang/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nhaphang.iml" filepath="$PROJECT_DIR$/.idea/modules/nhaphang.iml" group="nhaphang" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1340813293/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1340813293/react-native-community_async-storage.iml" group="nhaphang/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-500324822/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-500324822/react-native-community_masked-view.iml" group="nhaphang/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/975854061/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/975854061/react-native-gesture-handler.iml" group="nhaphang/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/479636725/react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/479636725/react-native-onesignal.iml" group="nhaphang/react-native-onesignal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20644879/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/20644879/react-native-reanimated.iml" group="nhaphang/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144250646/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2144250646/react-native-safe-area-context.iml" group="nhaphang/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1124413778/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1124413778/react-native-screens.iml" group="nhaphang/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1838838261/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1838838261/react-native-svg.iml" group="nhaphang/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1057148169/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1057148169/react-native-vector-icons.iml" group="nhaphang/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1865471200/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1865471200/react-native-webview.iml" group="nhaphang/react-native-webview" />
+    </modules>
+  </component>
+</project>

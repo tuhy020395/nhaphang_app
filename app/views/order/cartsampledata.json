@@ -1,0 +1,53 @@
+{
+    "Code": "102",
+    "Status": "Success",
+    "Message": "367,200 VNĐ",
+    "ListOrderShop": [
+        {
+            "OrderShopID": 44450,
+            "OrderShopName": "优衣库官方旗舰店",
+            "IsCheckProduct": false,
+            "IsCheckPacked": false,
+            "IsCheckFastDelivery": false,
+            "Note": null,
+            "ListProduct": [
+                {
+                    "OrderTempID": 85562,
+                    "ProductName": "【设计师合作款】女装 圆领T恤(短袖) 424873 优衣库UNIQLO",
+                    "Image": "//img.alicdn.com/imgextra/i2/196993935/O1CN01M5C3B41ewH6LfDHTR_!!196993935.jpg_320x320q75.jpg",
+                    "LinkProduct": "https://m.intl.taobao.com/detail/detail.html?spm=a2141.8971817.50000671.1&id=606675435996&scm=1007.15522.117270.cat:50000671_industry:_cattype:cat_id:606675435996&pvid=54b8bb94-d968-4ad2-a34d-1f186413a3bf&scene=5522#modal=sku&timeStamp=1584520079738",
+                    "Property": "155/80A/S;08 深灰色;",
+                    "Brand": "",
+                    "PriceVN": "268,600",
+                    "PriceCNY": "79",
+                    "TotalPriceVN": "268,600",
+                    "TotalPriceCNY": "79",
+                    "Quantity": 1
+                }
+            ]
+        },
+        {
+            "OrderShopID": 44451,
+            "OrderShopName": "清仓活动 疯抢一天",
+            "IsCheckProduct": false,
+            "IsCheckPacked": false,
+            "IsCheckFastDelivery": false,
+            "Note": null,
+            "ListProduct": [
+                {
+                    "OrderTempID": 85563,
+                    "ProductName": "羊毛针织衫女开衫外搭2020春装新款短款长袖V领毛衣外套",
+                    "Image": "//img.alicdn.com/imgextra/i4/91752238/O1CN016Ktphr1SP2wPtDPAs_!!91752238.jpg_460x460q75.jpg",
+                    "LinkProduct": "https://m.intl.taobao.com/detail/detail.html?spm=a2141.8971817.50000697.1&id=599186922598&scm=1007.15522.117270.cat:50000697_industry:_cattype:cat_id:599186922598&pvid=1f6fc719-f1f2-4d5e-b3ba-06adb02ef99c&scene=5522#modal=sku&timeStamp=1584520375018",
+                    "Property": "L;玫红 V领;",
+                    "Brand": "",
+                    "PriceVN": "98,600",
+                    "PriceCNY": "29",
+                    "TotalPriceVN": "98,600",
+                    "TotalPriceCNY": "29",
+                    "Quantity": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Sep 28 17:27:31 ICT 2020
+base.0=C\:\\Users\\tuhy0\\OneDrive\\Desktop\\nhaphang-nhaphangtaobao\\nhaphang-nhaphangtaobao\\android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
